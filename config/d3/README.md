@@ -1,5 +1,5 @@
 ## How to add a new D3 chart type
-- under the directory config/d3, create a copy of radial-reingold–tilford-tree.js and call it with a significant name, e.g. donut.js
+- under the directory config/d3, create a copy of golden.js and call it with a significant name, e.g. donut.js
 - in donut.js delete all the code between ``// EDITING STARTS HERE [...] // EDITING ENDS ERE``
 - follow the e.g. [http://bl.ocks.org/mbostock/3887193](http://bl.ocks.org/mbostock/3887193) 
 - edit the donut.js in this way (copy it as is in your IDE):

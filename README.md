@@ -1,7 +1,7 @@
-# charts-server-renderer
+# d3-v4-server-renderer
 A charts server renderer easy to customize, it uses [d3.js](https://d3js.org/) 
 or [FusionCharts](http://www.fusioncharts.com/) to render svg charts on the 
-server-side with node.js and to serve it.
+server-side with node.js and to serve it. Based on charts-server-renderer by Michele Di Salvatore but usind D3 V4.
 
 ## Getting started
 - clone this project
